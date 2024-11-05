@@ -69,3 +69,7 @@ the hdri is from https://polyhaven.com/a/table_mountain_2_puresky
 
 poly haven is a fantastic resource
 
+
+## 03-LightHouse
+
+following a tutorial from https://www.gamedev.tv/courses/complete-blender-creator
