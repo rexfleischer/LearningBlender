@@ -59,6 +59,15 @@ Going through tutorials to learn blender
 * deforming objects
   * these are ways to can transform and entire object
 
+* render movie basics
+  * go to output in properties window
+  * output section
+  * set output location
+  * File Format = FFmpeg Video
+  * in Encoding section, Container = MPEG-4
+  * in Video section, Output Qualityy = Perceptually Lossless, Encoding Speed = Slowest
+  * cmd+F12
+
 ## 01-LowPolySword
 https://www.youtube.com/watch?v=lgJaWqIYeKM
 
@@ -71,5 +80,15 @@ poly haven is a fantastic resource
 
 
 ## 03-LightHouse
+
+following a tutorial from https://www.gamedev.tv/courses/complete-blender-creator
+
+
+## 04-ModularDungeon
+
+following a tutorial from https://www.gamedev.tv/courses/complete-blender-creator
+
+
+## 05-ModularDungeon
 
 following a tutorial from https://www.gamedev.tv/courses/complete-blender-creator
