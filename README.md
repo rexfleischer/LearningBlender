@@ -68,6 +68,22 @@ Going through tutorials to learn blender
   * in Video section, Output Qualityy = Perceptually Lossless, Encoding Speed = Slowest
   * cmd+F12
 
+* cmd+p to parent one object to another 
+
+* inverse kenimetics
+  * make a target and pole bone that do not deform, are not parented, and are:
+    * "pole" is where the IK will be pulled to
+    * "target" is the end? I think? put this on the last bone of IK
+  * on the ending bone that deforms, add the IK modifier on the bone
+
+* attaching bones to mesh
+  * for entire mesh: select the mesh to attach, then the armature, then cmd+p and parent with automatic weights
+  * for single bone: go into edit mode and select just the single bone you need to attach. Then, object mode, select the mesh and then the armeture, and press cmd+p, but select "bone". blender will remember the bone that is last selected.
+
+* to paint weights on the mesh for armetures, first select the armeture, then the mesh to paint, then go into "weight paint" mode
+  * alt+click will allow you to select different bones
+
+
 ## 01-LowPolySword
 https://www.youtube.com/watch?v=lgJaWqIYeKM
 
@@ -90,5 +106,12 @@ following a tutorial from https://www.gamedev.tv/courses/complete-blender-creato
 
 
 ## 05-ModularDungeon
+
+following a tutorial from https://www.gamedev.tv/courses/complete-blender-creator
+
+
+## 06-AnimationBasics
+
+face movie from: https://www.pexels.com/video/abstract-video-4990242/
 
 following a tutorial from https://www.gamedev.tv/courses/complete-blender-creator
